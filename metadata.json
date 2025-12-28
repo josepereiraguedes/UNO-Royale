@@ -1,0 +1,8 @@
+{
+  "name": "UNO Royale",
+  "description": "A competitive real-time card game combining UNO mechanics with Clash Royale progression, featuring arenas, chests, and global ranking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
